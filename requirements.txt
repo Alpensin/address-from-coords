@@ -1,0 +1,11 @@
+wheel
+setuptools
+pip
+autopep8
+isort
+pylint
+ipython
+tqdm
+pandas
+requests
+openpyxl
